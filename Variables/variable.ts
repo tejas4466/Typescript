@@ -12,3 +12,4 @@ console.log(userId);
 
 
 export{}
+//export {} is a way to define a TypeScript file as a module, which helps in maintaining better code organization and avoiding global scope issues.
